@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Felipe Casagrande!
 
-**Python Developer | ETL | Data Engineering**
+**||⦁ Python Dev - AI || LLMs-RAGs-MCPs ||⦁ Devops ||⦁ RPA with AI Agents - N8n  ||⦁ Data Engineering Dev ||⦁ BI - ETL/ELT - Streamlit ||⦁ Generative AI - NLP**
 
 Desenvolvedor apaixonado por transformar dados em insights e criar soluções que facilitam o dia a dia. Atualmente focado em engenharia de dados, desenvolvimento Python e automações inteligentes.
 
